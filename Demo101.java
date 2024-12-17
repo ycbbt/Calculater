@@ -30,7 +30,7 @@ public class Demo101 {
                 result=num1/num2;
                 break;
             default:
-                System.out.println("Please enter the correct chacter");
+                System.out.println("Bruh please enter the correct character");
         }
         return result;
     }
