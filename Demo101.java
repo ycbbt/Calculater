@@ -30,7 +30,7 @@ public class Demo101 {
                 result=num1/num2;
                 break;
             default:
-                System.out.println("请输入有效运算符");
+                System.out.println("Please enter the correct chacter");
         }
         return result;
     }
